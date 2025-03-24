@@ -29,7 +29,7 @@ Aspiring **Full-Stack Web Developer** with a passion for building dynamic web ap
 
 ## 📫 Connect with Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/misba-ali)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](misbaalikhan@gmail.com)
+[![Email me](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:misbaalikhan@gmail.com)
 
 ---
 ### *Fun Fact: Every expert was once a beginner!🌱*
