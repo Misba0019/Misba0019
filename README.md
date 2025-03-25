@@ -16,8 +16,8 @@ Aspiring **Full-Stack Web Developer** with a passion for building dynamic web ap
 
 ## 🛠️ What I'm Working On
 - Deepening my understanding of **MongoDB** and **Mongoose** for backend development.
-- 💡 **Enhancing problem-solving skills** through hands-on projects
-- 🔍 **Exploring more efficient development workflows**
+- **Enhancing problem-solving skills** through hands-on projects
+- **Exploring more efficient development workflows**
 
 ## 📌 Selected Works
 - 🔹 [Pokemon-Project](https://github.com/Misba0019/Pokemon-Project.git) - A visually styled Pokémon showcase with real-time data from the PokéAPI.⚡
