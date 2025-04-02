@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Misba Ali 
 
 ## 🌱 About Me
-Aspiring **Full-Stack Web Developer** with a passion for building dynamic web applications and crafting visually appealing, user-friendly websites. Currently, I'm learning **MongoDB** and **Mongoose** to enhance my backend skills.
+Aspiring **Full-Stack Web Developer** with a passion for building dynamic web applications and crafting visually appealing, user-friendly websites.
 
 ## 🚀 Tech Stack
 ### Frontend:
