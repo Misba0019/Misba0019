@@ -15,7 +15,6 @@ Aspiring **Full-Stack Web Developer** with a passion for building dynamic web ap
 - 🛠 **Version Control:** Git, GitHub
 
 ## 🛠️ What I'm Working On
-- Deepening my understanding of **MongoDB** and **Mongoose** for backend development.
 - **Enhancing problem-solving skills** through hands-on projects
 - **Exploring more efficient development workflows**
 
