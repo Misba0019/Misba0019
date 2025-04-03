@@ -25,6 +25,7 @@ Aspiring **Full-Stack Web Developer** with a passion for building dynamic web ap
 - 🔹 [Solar-System Project](https://github.com/Misba0019/Solar-System-Project.git) - A dynamic solar system simulation.🪐✨
 - 🔹 [CSS-Gallery-Project](https://github.com/Misba0019/CSS-Gallery-Project.git) - A stylish and responsive gallery with smooth CSS effects.🖼️ 
 - 🔹 [Score-Keeper_Game Project](https://github.com/Misba0019/Score_Keeper_Game.git) - A user-friendly score tracker with click-based updates and customizable goals.🎯
+- 🔹 [color_project](https://github.com/Misba0019/color_project.git) - A dynamic page enhancer with click-based random background color changes and live color display. 🎨
 
 ## 📫 Connect with Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/misba-ali)  
