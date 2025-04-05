@@ -22,7 +22,8 @@ Aspiring **Full-Stack Web Developer** with a passion for building dynamic web ap
 🔹 **[Pokemon-Project](https://github.com/Misba0019/Pokemon-Project.git)**  
 A visually styled Pokémon showcase with real-time data from the PokéAPI.⚡
   
-🔹 **[ToDo-List Project](https://github.com/Misba0019/ToDo-List.git)**   A task tracker with add, delete, and save functionality.📝
+🔹 **[ToDo-List Project](https://github.com/Misba0019/ToDo-List.git)**  
+A task tracker with add, delete, and save functionality.📝
   
 🔹 **[Museum-Of-Candy Project](https://github.com/Misba0019/Museum-Of-Candy.git)**  
 A vibrant, responsive website for the Museum of Candy with smooth navigation and a sweet design.🍭
