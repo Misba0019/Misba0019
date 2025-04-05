@@ -19,14 +19,14 @@ Aspiring **Full-Stack Web Developer** with a passion for building dynamic web ap
 - **Exploring more efficient development workflows**
 
 ## 📌 Selected Works
-- 🔹 [Pokemon-Project](https://github.com/Misba0019/Pokemon-Project.git) - A visually styled Pokémon showcase with real-time data from the PokéAPI.⚡
-- 🔹 [ToDo-List Project](https://github.com/Misba0019/ToDo-List.git) - A task tracker with add, delete, and save functionality.📝
-- 🔹 [Museum-Of-Candy Project](https://github.com/Misba0019/Museum-Of-Candy.git) - A vibrant, responsive website for the Museum of Candy with smooth navigation and a sweet design.🍭
-- 🔹 [Solar-System-Project](https://github.com/Misba0019/Solar-System-Project.git) - A dynamic solar system simulation.🪐✨
-- 🔹 [CSS-Gallery-Project](https://github.com/Misba0019/CSS-Gallery-Project.git) - A stylish and responsive gallery with smooth CSS effects.🖼️ 
-- 🔹 [Score-Keeper-Game Project](https://github.com/Misba0019/Score_Keeper_Game.git) - A user-friendly score tracker with click-based updates and customizable goals.🎯
-- 🔹 [race_registration_form Project](https://github.com/Misba0019/race_registration_form.git) - A sleek, responsive form designed for race enthusiasts, featuring easy race type selection, age group dropdowns, and built-in validation for smooth user experience. 🏃‍♂️✨
-- 🔹 [color_project](https://github.com/Misba0019/color_project.git) - A dynamic page enhancer with click-based random background color changes and live color display. 🎨
+> 🔹 [Pokemon-Project](https://github.com/Misba0019/Pokemon-Project.git) - A visually styled Pokémon showcase with real-time data from the PokéAPI.⚡
+> 🔹 [ToDo-List Project](https://github.com/Misba0019/ToDo-List.git) - A task tracker with add, delete, and save functionality.📝
+> 🔹 [Museum-Of-Candy Project](https://github.com/Misba0019/Museum-Of-Candy.git) - A vibrant, responsive website for the Museum of Candy with smooth navigation and a sweet design.🍭
+> 🔹 [Solar-System-Project](https://github.com/Misba0019/Solar-System-Project.git) - A dynamic solar system simulation.🪐✨
+> 🔹 [CSS-Gallery-Project](https://github.com/Misba0019/CSS-Gallery-Project.git) - A stylish and responsive gallery with smooth CSS effects.🖼️ 
+> 🔹 [Score-Keeper-Game Project](https://github.com/Misba0019/Score_Keeper_Game.git) - A user-friendly score tracker with click-based updates and customizable goals.🎯
+> 🔹 [race_registration_form Project](https://github.com/Misba0019/race_registration_form.git) - A sleek, responsive form designed for race enthusiasts, featuring easy race type selection, age group dropdowns, and built-in validation for smooth user experience. 🏃‍♂️✨
+> 🔹 [color_project](https://github.com/Misba0019/color_project.git) - A dynamic page enhancer with click-based random background color changes and live color display. 🎨
 
 ## 📫 Connect with Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/misba-ali)  
