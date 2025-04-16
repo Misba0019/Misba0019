@@ -42,6 +42,9 @@ A sleek, responsive form designed for race enthusiasts, featuring easy race type
   
 🔹 **[color_project](https://github.com/Misba0019/color_project.git)**  
 A dynamic page enhancer with click-based random background color changes and live color display. 🎨
+  
+🔹 **[lang-detect-tool](https://github.com/Misba0019/lang-detect-tool)**  
+A smart text analyzer that detects language, provides ISO 639-3 codes, and ensures visually appealing results. 🌐
 
 ## 📫 Connect with Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/misba-ali)  
