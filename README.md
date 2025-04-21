@@ -12,11 +12,13 @@ Aspiring **Full-Stack Web Developer** with a passion for building dynamic web ap
 ### Backend:
 - ⚙️ **Technologies:** Node.js, Express.js, MongoDB, Mongoose
 - 🔗 **APIs & Tools:** REST APIs, Fetch API, Postman
-- 🛠 **Version Control:** Git, GitHub
+- 🔧 **Middleware & Error Handling:** express.json(), express.urlencoded(), morgan, custom middleware, error-handling middleware (default, custom, asynchronous, validation, database, authentication, and 404 errors)
+
+### Version Control:
+- 🛠 **Tools:** Git, GitHub
 
 ## 🛠️ What I'm Working On
 - **Enhancing problem-solving skills** through hands-on projects
-- **Exploring more efficient development workflows**
 
 ## 📌 Selected Works
 🔹 **[Pokemon-Project](https://github.com/Misba0019/Pokemon-Project.git)**  
