@@ -24,9 +24,6 @@ Aspiring **Full-Stack Web Developer** with a passion for building dynamic web ap
 - **[Pokemon-Project](https://github.com/Misba0019/Pokemon-Project.git)**  
 A visually styled Pokémon showcase with real-time data from the PokéAPI.⚡
   
-- **[ToDo-List](https://github.com/Misba0019/ToDo-List.git)**  
-A task tracker with add, delete, and save functionality.📝
-  
 - **[Museum-Of-Candy](https://github.com/Misba0019/Museum-Of-Candy.git)**  
 A vibrant, responsive website for the Museum of Candy with smooth navigation and a sweet design.🍭
   
@@ -41,12 +38,6 @@ A user-friendly score tracker with click-based updates and customizable goals.�
   
 - **[race_registration_form](https://github.com/Misba0019/race_registration_form.git)**  
 A sleek, responsive form designed for race enthusiasts, featuring easy race type selection, age group dropdowns, and built-in validation for smooth user experience. 🏃‍♂️✨
-  
-- **[color_project](https://github.com/Misba0019/color_project.git)**  
-A dynamic page enhancer with click-based random background color changes and live color display. 🎨
-  
-- **[lang-detect-tool](https://github.com/Misba0019/lang-detect-tool)**  
-A smart text analyzer that detects language, provides ISO 639-3 codes, and ensures visually appealing results. 🌐
 
 ## 📫 Connect with Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/misba-ali)  
