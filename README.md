@@ -12,6 +12,7 @@ Aspiring **Full-Stack Web Developer** with a passion for building dynamic web ap
 ### Backend:
 - ⚙️ **Technologies:** Node.js, Express.js, MongoDB, Mongoose
 - 🔗 **APIs & Tools:** REST APIs, Fetch API, Postman
+- 🧩 **Database Modeling:** Mongoose Schemas, MongoDB Relationships (Referencing & Embedding), populate()
 - 🔧 **Middleware & Error Handling:** express.json(), express.urlencoded(), morgan, custom middleware, error-handling middleware (default, custom, asynchronous, validation, database, authentication, and 404 errors)
 
 ### Version Control:
