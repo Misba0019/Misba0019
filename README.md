@@ -19,7 +19,8 @@ Aspiring **Full-Stack Web Developer** with a passion for building dynamic web ap
 - 🛠 **Tools:** Git, GitHub
 
 ## 🛠️ What I'm Working On
-- **Enhancing problem-solving skills** through hands-on projects
+- **Enhancing problem-solving skills** through hands-on projects.
+- **Refining and improving project functionality**, tackling each aspect one step at a time. 
 
 ## 📌 Selected Works
 - **[Pokemon-Project](https://github.com/Misba0019/Pokemon-Project.git)**  
