@@ -4,19 +4,21 @@
 Aspiring **Full-Stack Web Developer** with a passion for building dynamic web applications and crafting visually appealing, user-friendly websites.
 
 ## 🚀 Tech Stack
-### Frontend:
-- 🌐 **Languages:** HTML, CSS, JavaScript (ES6+)
-- 🎨 **Styling & UI:** Bootstrap, EJS, CSS Grid, CSS Flexbox, CSS Animations & Transitions, Media Queries & Responsive Design, CSS Variables
-- 📜 **JavaScript Skills:** DOM Manipulation, Event Handling, Async/Await, Promises, Axios
+### 🌐Frontend:
+- **Languages:** HTML, CSS, JavaScript (ES6+)
+- **Styling & UI:** Bootstrap, EJS, CSS Grid, Flexbox, CSS Variables, Animations & Transitions, Media Queries, Responsive Design
+- **JavaScript Skills:** DOM Manipulation, Event Handling, Async/Await, Promises, Axios, Fetch API
 
-### Backend:
-- ⚙️ **Technologies:** Node.js, Express.js, MongoDB, Mongoose
-- 🔗 **APIs & Tools:** REST APIs, Fetch API, Postman
-- 🧩 **Database Modeling:** Mongoose Schemas, MongoDB Relationships (Referencing & Embedding), populate()
-- 🔧 **Middleware & Error Handling:** express.json(), express.urlencoded(), morgan, custom middleware, error-handling middleware (default, custom, asynchronous, validation, database, authentication, and 404 errors)
+### ⚙️Backend:
+- **Technologies:** Node.js, Express.js, MongoDB, Mongoose
+- **APIs & Tools:** REST APIs, Fetch API, Postman
+- **Database Modeling:** Mongoose Schemas, MongoDB Relationships (Referencing & Embedding), populate()
+- **Middleware & Routing:** express.json(), express.urlencoded(), morgan, custom middleware, Express Router
+- **Sessions & Auth:** Sessions, Cookies, Flash, Authentication from scratch
+- **Error Handling:** Default, custom, async, validation, database, and 404 errors
 
-### Version Control:
-- 🛠 **Tools:** Git, GitHub
+### 🛠Version Control:
+- **Tools:** Git, GitHub
 
 ## 🛠️ What I'm Working On
 - **Enhancing problem-solving skills** through hands-on projects.
