@@ -43,6 +43,8 @@ A user-friendly score tracker with click-based updates and customizable goals.�
 - **[race_registration_form](https://github.com/Misba0019/race_registration_form.git)**  
 A sleek, responsive form designed for race enthusiasts, featuring easy race type selection, age group dropdowns, and built-in validation for smooth user experience. 🏃‍♂️✨
 
+---
+
 ## 📫 Connect with Me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/misba-ali)  
 [![Email me](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:misbaalikhan@gmail.com)
