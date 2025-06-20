@@ -25,17 +25,11 @@ Aspiring **Full-Stack Web Developer** with a passion for building dynamic web ap
 - **Refining and improving project functionality**, tackling each aspect one step at a time. 
 
 ## 📌 Selected Works
+- **[Mongoose-Express-App](https://github.com/Misba0019/mongoose-express-app.git)**  
+A full-stack CRUD application built with MongoDB, Mongoose, Express, and EJS. 🛠️📦
+
 - **[Pokemon-Project](https://github.com/Misba0019/Pokemon-Project.git)**  
 A visually styled Pokémon showcase with real-time data from the PokéAPI.⚡
-  
-- **[Museum-Of-Candy](https://github.com/Misba0019/Museum-Of-Candy.git)**  
-A vibrant, responsive website for the Museum of Candy with smooth navigation and a sweet design.🍭
-  
-- **[Solar-System-Project](https://github.com/Misba0019/Solar-System-Project.git)**  
-A dynamic solar system simulation.🪐✨
-  
-- **[CSS-Gallery-Project](https://github.com/Misba0019/CSS-Gallery-Project.git)**  
-A stylish and responsive gallery with smooth CSS effects.🖼️ 
   
 - **[Score-Keeper-Game](https://github.com/Misba0019/Score_Keeper_Game.git)**  
 A user-friendly score tracker with click-based updates and customizable goals.🎯
