@@ -6,42 +6,37 @@ Aspiring **Full-Stack Web Developer** with a passion for building dynamic web ap
 ---
 
 ## 🚀 Tech Stack
-### 🌐Frontend:
-- **Languages:** HTML, CSS, JavaScript (ES6+)
-- **Styling & UI:** Bootstrap, EJS, CSS Grid, Flexbox, CSS Variables, Animations & Transitions, Media Queries, Responsive Design
-- **JavaScript Skills:** DOM Manipulation, Event Handling, Async/Await, Promises, Axios, Fetch API
+**Frontend:**  
+HTML • CSS • JavaScript (ES6+) • Bootstrap • EJS • Responsive Design
 
-### ⚙️Backend:
-- **Technologies:** Node.js, Express.js, MongoDB, Mongoose
-- **APIs & Tools:** REST APIs, Fetch API, Postman
-- **Database Modeling:** Mongoose Schemas, MongoDB Relationships (Referencing & Embedding), populate()
-- **Middleware & Routing:** express.json(), express.urlencoded(), morgan, custom middleware, Express Router
-- **Sessions & Auth:** Sessions, Cookies, Flash, Authentication from scratch
-- **Error Handling:** Default, custom, async, validation, database, and 404 errors
+**Backend:**  
+Node.js • Express.js • MongoDB • Mongoose • REST APIs • Postman
 
-### 🛠Version Control:
-- **Tools:** Git, GitHub
+**Other Skills:**  
+Git • GitHub • Sessions & Auth • Error Handling • Middleware • Axios • Fetch
 
 ---
 
 ## 🛠️ What I'm Working On
-- **Building a feature-rich full-stack application**, refining core features and authentication flows.
-- **Refining and improving project functionality**, tackling each aspect one step at a time. 
+- Building a full-stack app with advanced authentication and modular routing.
+- Continuously improving UI/UX, error handling, and code structure. 
 
 ---
 
 ## 📌 Selected Works
-- **[Mongoose-Express-App](https://github.com/Misba0019/mongoose-express-app.git)**  
-A full-stack CRUD application built with MongoDB, Mongoose, Express, and EJS. 🛠️📦
+### 🔹 [ProductPulse](https://github.com/Misba0019/ProductPulse.git)  
+A full-stack CRUD app with category filters, product editing, and responsive UI. 
+![ProductPulse Screenshot](https://github.com/Misba0019/ProductPulse/blob/main/assets/all-products.png)
 
-- **[Pokemon-Project](https://github.com/Misba0019/Pokemon-Project.git)**  
-A visually styled Pokémon showcase with real-time data from the PokéAPI.⚡
-  
-- **[Score-Keeper-Game](https://github.com/Misba0019/Score_Keeper_Game.git)**  
-A user-friendly score tracker with click-based updates and customizable goals.🎯
-  
-- **[race_registration_form](https://github.com/Misba0019/race_registration_form.git)**  
-A sleek, responsive form designed for race enthusiasts, featuring easy race type selection, age group dropdowns, and built-in validation for smooth user experience. 🏃‍♂️✨
+---
+
+### 🔹 [Score_Keeper_Game](https://github.com/Misba0019/Score_Keeper_Game.git)  
+A mini score tracker game with customizable settings.  
+
+---
+
+### 🔹 [race_registration_form](https://github.com/Misba0019/race_registration_form.git)  
+Responsive form with age-group logic and input validation.  
 
 ---
 
@@ -50,4 +45,5 @@ A sleek, responsive form designed for race enthusiasts, featuring easy race type
 [![Email me](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:misbaalikhan@gmail.com)
 
 ---
-### *Fun Fact: Every expert was once a beginner!🌱*
+
+> _“Every expert was once a beginner.” 🌱_
