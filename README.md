@@ -36,8 +36,9 @@ A sleek Pokémon explorer with real-time data from PokéAPI.
 
 ---
 
-### 🔹 [Score_Keeper_Game](https://github.com/Misba0019/Score_Keeper_Game.git)  
-A mini score tracker game with customizable settings.  
+### 🔹 [PointPlay](https://github.com/Misba0019/PointPlay.git)  
+A simple and interactive score tracker with customizable settings and clean UI.
+![PointPlay Screenshot](https://github.com/Misba0019/PointPlay/blob/main/screenshot/PointPlay.png)
 
 ---
 
