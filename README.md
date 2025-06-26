@@ -42,8 +42,9 @@ A simple and interactive score tracker with customizable settings and clean UI.
 
 ---
 
-### 🔹 [race_registration_form](https://github.com/Misba0019/race_registration_form.git)  
+### 🔹 [RaceRegister](https://github.com/Misba0019/RaceRegister.git)  
 Responsive form with age-group logic and input validation.  
+![RaceRegister Screenshot](https://github.com/Misba0019/RaceRegister/blob/main/assets/RaceRegister.png)
 
 ---
 
