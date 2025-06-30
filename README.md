@@ -32,7 +32,7 @@ A full-stack CRUD app with category filters, product editing, and responsive UI.
 
 ### 🔹 [PokeSearch](https://github.com/Misba0019/PokeSearch.git)  
 A sleek Pokémon explorer with real-time data from PokéAPI.  
-![PokeSearch Screenshot](https://github.com/Misba0019/PokeSearch/blob/main/assets/PokeSearch.png)
+![PokeSearch Screenshot](https://github.com/Misba0019/PokeSearch/blob/main/assets/site-top.png)
 
 ---
 
