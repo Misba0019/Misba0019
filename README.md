@@ -50,7 +50,7 @@ Responsive form with age-group logic and input validation.
 
 ### 🌈 [ColorSplash](https://github.com/Misba0019/ColorSplash.git) - Random RGB Generator
 A minimal but handy web app to generate random RGB colors with a live preview.  
-![ColorSplash Screenshot](https://github.com/Misba0019/RaceRegister/blob/main/assets/ColorSplash-preview.png)
+![ColorSplash Screenshot](https://github.com/Misba0019/ColorSplash/blob/main/assets/ColorSplash-preview.png)
 
 ---
 
