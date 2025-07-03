@@ -24,27 +24,33 @@ Git • GitHub • Sessions & Auth • Error Handling • Middleware • Axios �
 ---
 
 ## 📌 Selected Works
-### 🔹 [ProductPulse](https://github.com/Misba0019/ProductPulse.git)  
+### 🛒 [ProductPulse](https://github.com/Misba0019/ProductPulse.git)  
 A full-stack CRUD app with category filters, product editing, and responsive UI. 
 ![ProductPulse Screenshot](https://github.com/Misba0019/ProductPulse/blob/main/assets/all-products.png)
 
 ---
 
-### 🔹 [PokeSearch](https://github.com/Misba0019/PokeSearch.git)  
+### 🧢 [PokeSearch](https://github.com/Misba0019/PokeSearch.git)  
 A sleek Pokémon explorer with real-time data from PokéAPI.  
 ![PokeSearch Screenshot](https://github.com/Misba0019/PokeSearch/blob/main/assets/site-top.png)
 
 ---
 
-### 🔹 [PointPlay](https://github.com/Misba0019/PointPlay.git)  
+### 🏓 [PointPlay](https://github.com/Misba0019/PointPlay.git)  
 A simple and interactive score tracker with customizable settings and clean UI.
 ![PointPlay Screenshot](https://github.com/Misba0019/PointPlay/blob/main/screenshot/PointPlay.png)
 
 ---
 
-### 🔹 [RaceRegister](https://github.com/Misba0019/RaceRegister.git)  
+### 🏁 [RaceRegister](https://github.com/Misba0019/RaceRegister.git)  
 Responsive form with age-group logic and input validation.  
 ![RaceRegister Screenshot](https://github.com/Misba0019/RaceRegister/blob/main/assets/RaceRegister.png)
+
+---
+
+### 🌈 [ColorSplash](https://github.com/Misba0019/ColorSplash.git) - Random RGB Generator
+A minimal but handy web app to generate random RGB colors with a live preview.  
+![ColorSplash Screenshot](https://github.com/Misba0019/RaceRegister/blob/main/assets/ColorSplash-preview.png)
 
 ---
 
