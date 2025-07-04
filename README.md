@@ -30,6 +30,12 @@ A full-stack CRUD app with category filters, product editing, and responsive UI.
 
 ---
 
+### 🌈 [ColorSplash](https://github.com/Misba0019/ColorSplash.git) - Random RGB Generator
+A minimal but handy web app to generate random RGB colors with a live preview.  
+![ColorSplash Screenshot](https://github.com/Misba0019/ColorSplash/blob/main/assets/ColorSplash-preview.png)
+
+---
+
 ### 🧢 [PokeSearch](https://github.com/Misba0019/PokeSearch.git)  
 A sleek Pokémon explorer with real-time data from PokéAPI.  
 ![PokeSearch Screenshot](https://github.com/Misba0019/PokeSearch/blob/main/assets/site-top.png)
@@ -42,15 +48,14 @@ A simple and interactive score tracker with customizable settings and clean UI.
 
 ---
 
-### 🏁 [RaceRegister](https://github.com/Misba0019/RaceRegister.git)  
-Responsive form with age-group logic and input validation.  
-![RaceRegister Screenshot](https://github.com/Misba0019/RaceRegister/blob/main/assets/RaceRegister.png)
+### 📸 [GalleryGrid](https://github.com/Misba0019/GalleryGrid.git)  
+A clean and responsive image gallery built with CSS Grid. Features Unsplash photos and stylish hover effects for a modern visual layout.  
+![GalleryGrid Screenshot](https://github.com/Misba0019/GalleryGrid/blob/main/screenshots/hero-section.png)
 
 ---
 
-### 🌈 [ColorSplash](https://github.com/Misba0019/ColorSplash.git) - Random RGB Generator
-A minimal but handy web app to generate random RGB colors with a live preview.  
-![ColorSplash Screenshot](https://github.com/Misba0019/ColorSplash/blob/main/assets/ColorSplash-preview.png)
+### 📝 [Todo-List](https://github.com/Misba0019/Todo-List.git)
+A unique, prompt-driven to-do app built with vanilla JS and styled with Bootstrap. Tasks are rendered live on the page and removed with a click. 
 
 ---
 
