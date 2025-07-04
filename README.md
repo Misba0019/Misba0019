@@ -54,8 +54,9 @@ A clean and responsive image gallery built with CSS Grid. Features Unsplash phot
 
 ---
 
-### 📝 [Todo-List](https://github.com/Misba0019/Todo-List.git)
+### 📝 [PromptPlan](https://github.com/Misba0019/PromptPlan.git)
 A unique, prompt-driven to-do app built with vanilla JS and styled with Bootstrap. Tasks are rendered live on the page and removed with a click. 
+![PromptPlan Screenshot](https://github.com/Misba0019/PromptPlan/blob/main/assets/PromptPlan-preview.png)
 
 ---
 
