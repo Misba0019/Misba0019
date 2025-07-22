@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Misba Ali 
 
 ## 🌱 About Me
-Aspiring **Full-Stack Web Developer** with a passion for building dynamic web applications and crafting visually appealing, user-friendly websites.
+Aspiring **Full-Stack Web Developer** passionate about building dynamic, database-driven web applications and designing responsive, user-friendly interfaces.
 
 ---
 
@@ -10,16 +10,22 @@ Aspiring **Full-Stack Web Developer** with a passion for building dynamic web ap
 HTML • CSS • JavaScript (ES6+) • Bootstrap • EJS • Responsive Design
 
 **Backend:**  
-Node.js • Express.js • MongoDB • Mongoose • REST APIs • Postman
+Node.js • Express.js • MongoDB • Mongoose • RESTful APIs
+
+**Authentication & Security:**  
+Sessions & Cookies • Authorization • Protected Routes • Password Hashing
 
 **Other Skills:**  
-Git • GitHub • Sessions & Auth • Error Handling • Middleware • Axios • Fetch
+Git • GitHub • Postman • Axios • Fetch API • dotenv
+
+**Core Concepts:**  
+Modular Routing • MVC Architecture (Basic) • Middleware • Error Handling • Form Validation • Async/Await
 
 ---
 
 ## 🛠️ What I'm Working On
-- Building a full-stack app with advanced authentication and modular routing.
-- Continuously improving UI/UX, error handling, and code structure. 
+- Building a full-stack project with advanced authentication, modular routing, and error middleware.
+- Refining code structure, enhancing form validation, and improving UI/UX with responsive design principles.
 
 ---
 
