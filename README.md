@@ -31,7 +31,7 @@ Modular Routing • MVC Architecture (Basic) • Middleware • Error Handling �
 
 ## 📌 Selected Works
 ### 🛒 [ProductPulse](https://github.com/Misba0019/ProductPulse.git)  
-A full-stack CRUD app with category filters, product editing, and responsive UI. 
+A full-stack catalog app (Node.js, Express, MongoDB, EJS) with category filters, product management, timestamps, structured routing, robust error handling, and a responsive UI.
 ![ProductPulse Screenshot](https://github.com/Misba0019/ProductPulse/blob/main/assets/all-products.png)
 
 ---
