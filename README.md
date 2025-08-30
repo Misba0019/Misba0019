@@ -1,42 +1,55 @@
 # Hi there! 👋 I'm Misba Ali 
 
 ## 🌱 About Me
-Aspiring **Full-Stack Web Developer** passionate about building dynamic, database-driven web applications and designing responsive, user-friendly interfaces.
+Aspiring **Full-Stack Web Developer** passionate about building dynamic web applications and crafting responsive, user-friendly interfaces.
 
 ---
 
-## 🚀 Tech Stack
-**Frontend:**  
-HTML • CSS • JavaScript (ES6+) • Bootstrap • EJS • Responsive Design
+## 🚀 Tech Stack  
 
-**Backend:**  
-Node.js • Express.js • MongoDB • Mongoose • RESTful APIs
+**Frontend**  
+- HTML, CSS, JavaScript (ES6+)  
+- Bootstrap, EJS  
+- Responsive & accessible UI design  
 
-**Authentication & Security:**  
-Sessions & Cookies • Authorization • Protected Routes • Password Hashing
+**Backend**  
+- Node.js, Express.js  
+- MongoDB with Mongoose  
+- RESTful API design & integration  
 
-**Other Skills:**  
-Git • GitHub • Postman • Axios • Fetch API • dotenv
+**Authentication & Security**  
+- Sessions & Cookies  
+- Authorization & Protected Routes  
+- Password Hashing & Data Protection  
 
-**Core Concepts:**  
-Modular Routing • MVC Architecture (Basic) • Middleware • Error Handling • Form Validation • Async/Await
+**Developer Tools & Utilities**  
+- Git & GitHub for version control  
+- Postman for API testing  
+- Axios & Fetch API for data fetching  
+- dotenv for environment configuration  
+
+**Software Development Concepts**  
+- Modular Routing & Middleware  
+- MVC Architecture (basic)  
+- Error Handling & Form Validation  
+- Async/Await & Promises  
 
 ---
 
 ## 🛠️ What I'm Working On
 - Building a full-stack project with advanced authentication, modular routing, and error middleware.
-- Refining code structure, enhancing form validation, and improving UI/UX with responsive design principles.
 
 ---
 
 ## 📌 Selected Works
+_Here are some of my favorite projects, showcasing both frontend and full-stack development._
 ### 🛒 [ProductPulse](https://github.com/Misba0019/ProductPulse.git)  
 A full-stack catalog app (Node.js, Express, MongoDB, EJS) with category filters, product management, timestamps, structured routing, robust error handling, and a responsive UI.
 ![ProductPulse Screenshot](https://github.com/Misba0019/ProductPulse/blob/main/assets/all-products.png)
 
 ---
 
-### 🌈 [ColorSplash](https://github.com/Misba0019/ColorSplash.git) - Random RGB Generator
+### 🌈 [ColorSplash](https://github.com/Misba0019/ColorSplash.git)
 A minimal but handy web app to generate random RGB colors with a live preview.  
 ![ColorSplash Screenshot](https://github.com/Misba0019/ColorSplash/blob/main/assets/ColorSplash-preview.png)
 
