@@ -36,46 +36,36 @@ Aspiring **Full-Stack Web Developer** passionate about building dynamic web appl
 
 ---
 
-## 🛠️ What I'm Working On
+## 🔧 What I'm Working On
 - Building a full-stack project with advanced authentication, modular routing, and error middleware.
 
 ---
 
 ## 📌 Selected Works
-_Here are some of my favorite projects, showcasing both frontend and full-stack development._
-### 🛒 [ProductPulse](https://github.com/Misba0019/ProductPulse.git)  
-A full-stack catalog app (Node.js, Express, MongoDB, EJS) with category filters, product management, timestamps, structured routing, robust error handling, and a responsive UI.
-![ProductPulse Screenshot](https://github.com/Misba0019/ProductPulse/blob/main/assets/all-products.png)
 
----
+### [ProductPulse](https://github.com/Misba0019/ProductPulse)
+Full-stack CRUD app to manage and filter products.  
+**Tech:** Node.js, Express, MongoDB, Mongoose, EJS
 
-### 🌈 [ColorSplash](https://github.com/Misba0019/ColorSplash.git)
-A minimal but handy web app to generate random RGB colors with a live preview.  
-![ColorSplash Screenshot](https://github.com/Misba0019/ColorSplash/blob/main/assets/ColorSplash-preview.png)
+### [SolarSim](https://github.com/Misba0019/SolarSim)
+Animated solar system simulation with HTML & CSS.  
+**Tech:** HTML, CSS
 
----
+### [PointPlay](https://github.com/Misba0019/PointPlay)
+Responsive ping-pong score tracker using Bulma.  
+**Tech:** HTML, CSS (Bulma), JavaScript
 
-### 🧢 [PokeSearch](https://github.com/Misba0019/PokeSearch.git)  
-A sleek Pokémon explorer with real-time data from PokéAPI.  
-![PokeSearch Screenshot](https://github.com/Misba0019/PokeSearch/blob/main/assets/site-top.png)
+### [GalleryGrid](https://github.com/Misba0019/GalleryGrid)
+Elegant photo gallery layout with Grid and Flexbox.  
+**Tech:** HTML, CSS (Grid + Flexbox)
 
----
+### [PokeSearch](https://github.com/Misba0019/PokeSearch)
+Pokédex mini-app showing 151 Pokémon.  
+**Tech:** HTML, CSS, JavaScript (REST API, rate limiting)
 
-### 🏓 [PointPlay](https://github.com/Misba0019/PointPlay.git)  
-A simple and interactive score tracker with customizable settings and clean UI.
-![PointPlay Screenshot](https://github.com/Misba0019/PointPlay/blob/main/screenshot/PointPlay.png)
-
----
-
-### 📸 [GalleryGrid](https://github.com/Misba0019/GalleryGrid.git)  
-A clean and responsive image gallery built with CSS Grid. Features Unsplash photos and stylish hover effects for a modern visual layout.  
-![GalleryGrid Screenshot](https://github.com/Misba0019/GalleryGrid/blob/main/screenshots/hero-section.png)
-
----
-
-### 📝 [PromptPlan](https://github.com/Misba0019/PromptPlan.git)
-A unique, prompt-driven to-do app built with vanilla JS and styled with Bootstrap. Tasks are rendered live on the page and removed with a click. 
-![PromptPlan Screenshot](https://github.com/Misba0019/PromptPlan/blob/main/assets/PromptPlan-preview.png)
+### [PromptPlan](https://github.com/Misba0019/PromptPlan)
+To-do list app with prompt-based input and Bootstrap styling.  
+**Tech:** HTML, CSS (Bootstrap), JavaScript
 
 ---
 
